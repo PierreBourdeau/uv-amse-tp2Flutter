@@ -1,16 +1,18 @@
-# flutter_app
+# TP2 - UV-AMSE
 
-UV-AMSE Tp2
+![Flutter logo](https://flutter.dev/images/catalog-widget-placeholder.png)
 
-## Getting Started
+## Présentation 
 
-This project is a starting point for a Flutter application.
+Le TP a été réalisé sur Android studio avec le kit de développement Flutter. L'objectif étant de faire une première approche des outils, du langage et de Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+L'application est une succession d'exercice visant à la réalisation d'un jeu de Taquin.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Chaque éléments des listes est clickable pour consulter les différents exercices. Il est ensuite possible de revenir à l'écran principal.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tous les fichiers nécessairent au fonctionnement de l'application sont trouvable dans la branche **main** sur ce git.
+Un .apk est également fourni.
+
+Les tests ont étés réalisés sur émulateur : sdk gphone x86.
+
+* L'APK : `build\app\outputs\apk\release`
