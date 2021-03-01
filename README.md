@@ -13,6 +13,6 @@ Chaque éléments des listes est clickable pour consulter les différents exerci
 Tous les fichiers nécessairent au fonctionnement de l'application sont trouvable dans la branche **main** sur ce git.
 Un .apk est également fourni.
 
-Les tests ont étés réalisés sur émulateur : sdk gphone x86.
+Les tests ont été réalisés sur émulateur : sdk gphone x86.
 
 * L'APK : `build\app\outputs\apk\release`
