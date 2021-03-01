@@ -1,0 +1,4 @@
+#Mon Mar 01 13:58:34 CET 2021
+base.0=E\:\\COURS\\M1\\UV-AMSE\\LucFabresse\\TP2\\flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
